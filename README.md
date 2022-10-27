@@ -3,6 +3,9 @@
 > This template should be used for database related projects at Microverse.
 > Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
 
+## ERB Diagram
+![VET_DB](https://user-images.githubusercontent.com/104095543/197780218-b07c2f9c-c3f0-4758-8a57-b853f73dd771.jpeg)
+
 
 ## Getting Started
 
